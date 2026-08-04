@@ -98,3 +98,17 @@ Based on dashboard analysis, hospitals can:
 ---
 
 ## 📂 Repository Structure
+
+## 👨‍💻 About Me
+
+Karvendra Singh
+
+Senior Business Operations Analyst
+
+Business Analyst | Power BI | SQL | Python | Shopify
+
+🔗 LinkedIn
+
+🔗 GitHub
+
+🔗 Portfolio (Coming Soon)
