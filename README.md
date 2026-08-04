@@ -155,7 +155,7 @@ Senior Business Operations Analyst
 
 Business Analyst | Business Intelligence | Power BI | SQL | Python | Shopify
 
-🔗 LinkedIn: *(Add your LinkedIn URL here)*
+🔗 LinkedIn: https://www.linkedin.com/in/karvendra-singh-92311b109/
 
 💻 GitHub: https://github.com/Karvendra
 
