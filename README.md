@@ -1,8 +1,10 @@
-# Hospital Emergency Room (ER) Analytics Dashboard
+# 🏥 Hospital Emergency Room (ER) Analytics Dashboard
 
-## 📌 Overview
-This Power BI dashboard provides real-time insights into hospital emergency room operations.  
-It helps administrators, doctors, and staff monitor **patient flow, wait times, resource utilization, and outcomes** to improve efficiency and patient care.
+## 📌 Project Overview
+
+This project presents an interactive **Power BI dashboard** designed to analyze Emergency Room (ER) operations and provide actionable insights for hospital management.
+
+The dashboard enables stakeholders to monitor patient flow, waiting time, admission trends, resource utilization, and operational performance, helping improve decision-making and enhance patient care.
 
 ## 🎯 Objectives
 - Track **ER patient volume** by time, age group, and severity.
