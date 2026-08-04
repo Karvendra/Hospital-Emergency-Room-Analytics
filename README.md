@@ -4,9 +4,29 @@
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-> **(Dashboard Screenshot will be added here)**
+### Monthly Dashboard
+
+![Monthly View](Images/Monthly_View.png)
+
+---
+
+### Consolidated Dashboard
+
+![Consolidated View](Images/Consolidated_View.png)
+
+---
+
+### Patient Details
+
+![Patient Details](Images/Patient_Details.png)
+
+---
+
+### Executive Summary
+
+![Key Takeaways](Images/Key_Takeaways.png)
 
 ---
 
