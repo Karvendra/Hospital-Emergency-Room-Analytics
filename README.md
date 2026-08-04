@@ -6,25 +6,25 @@
 
 ## 📷 Dashboard Preview
 
-### Monthly Dashboard
+### 📊 Monthly Dashboard
 
-![Monthly View](Images/Monthly_View.png)
-
----
-
-### Consolidated Dashboard
-
-![Consolidated View](Images/Consolidated_View.png)
+![Monthly Dashboard](Images/Monthly_View.png)
 
 ---
 
-### Patient Details
+### 📈 Consolidated Dashboard
+
+![Consolidated Dashboard](Images/Consolidated_View.png)
+
+---
+
+### 👥 Patient Details Dashboard
 
 ![Patient Details](Images/Patient_Details.png)
 
 ---
 
-### Executive Summary
+### 📋 Executive Summary
 
 ![Key Takeaways](Images/Key_Takeaways.png)
 
