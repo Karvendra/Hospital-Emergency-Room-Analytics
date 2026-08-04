@@ -8,25 +8,25 @@
 
 ### 📊 Monthly Dashboard
 
-![Monthly Dashboard](Images/Monthly_View.png)
+![Monthly Dashboard](Monthly%20View.png)
 
 ---
 
 ### 📈 Consolidated Dashboard
 
-![Consolidated Dashboard](Images/Consolidated_View.png)
+![Consolidated Dashboard](Consolidate%20View.png)
 
 ---
 
 ### 👥 Patient Details Dashboard
 
-![Patient Details](Images/Patient_Details.png)
+![Patient Details](Patient%20Details.png)
 
 ---
 
 ### 📋 Executive Summary
 
-![Key Takeaways](Images/Key_Takeaways.png)
+![Executive Summary](Key%20TakeAways.png)
 
 ---
 
